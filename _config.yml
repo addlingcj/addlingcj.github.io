@@ -1,5 +1,5 @@
 # Site settings
-title: xianmu #Pudhina
+title: 林珈才的个人博客 #Pudhina
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -8,7 +8,7 @@ url: "https://addlingcj.github.io " # the base hostname & protocol for your site
 
 author:
   fullname: laozi
-  github: github
+  github: 愚者 #github
   #linkedin: linkedin
   email: 1549564550@qq.com #example@email.com
 
