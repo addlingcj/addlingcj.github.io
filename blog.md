@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 博客
-subtitle: 写文章的地方
+subtitle: 温故知新
 ---
 
 <div>

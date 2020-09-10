@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi
+title: 愚者
 subtitle: My name is linjiacai
 sitemap:
   priority: 0.9
@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>一个简单的Jekyll主题博客</p>
-	<p>分叉并使用 <strong> <a href="https://github.com/knhash/Pudhina"> 仓库</a> </strong>中的主题</p>
+	<p>点击 <strong> <a href="https://github.com/knhash/Pudhina"> 仓库</a> </strong>进入github</p>
 </div>

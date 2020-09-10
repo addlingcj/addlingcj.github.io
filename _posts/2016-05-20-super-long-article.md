@@ -2,12 +2,12 @@
 layout: page
 title:  "9.9学习总结"
 subtitle: "搭建个人技术博客"
-date:  2020-09-09 21:21:21 +0530
-categories: misc
+date:   2020-09-09 20:04 
+categories: ^^^^^^^
 ---
 
-###### 搭建个人技术博客
->> 使用GitHub pages +jekyll 快速部署博客
+# 搭建个人技术博客
+> 使用GitHub pages +jekyll 快速部署博客
 > - GitHub pages:
 >      - 定义:给所有用户提供一个个人主页
 >      - 如何访问：用户名.github.io

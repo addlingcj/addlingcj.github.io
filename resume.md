@@ -1,38 +1,25 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title:  愚者
+subtitle: Email 19397*****@qq.com 
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### 技能
-``` c语言,java,php前端制作```  
+### 语言使用
+``` c语言与java入门加上一点php基础 ```  
 
-### 教育
-
-私立华联 
-
-**课程**  
-c语言学习
-
-**课程二**  
-java学习 
-
-**课程三**  
-html5学习
+**爱好**  
+一夜暴富
 
 ### 经验
 
-Title - **NULL** <span style="float: right; ">Duration</span>  
-小型书籍前段管理页面
+- **♂** <span style="float: right; ">NULL</span>  
+单身二十多年
 
-### 个人手机
+### 关于我
+      
+ 没什么好说的
 
->1341716****
 
-### 认可 & 利益
-
-- NULL
-- NULL
