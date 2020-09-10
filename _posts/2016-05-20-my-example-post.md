@@ -3,7 +3,7 @@ layout: page
 title:  "2020.9.2知识总结"
 subtitle: "对git与Markdowpads"
 date:   2020-09-08 17:46
-categories: ^^^^^^^
+categories: GIT
 ---
 
 # GIT作用：
@@ -30,6 +30,6 @@ categories: ^^^^^^^
 -
 > 一些备注信息使用引用符号
 ``` php代码块
-<?php echo "李子越不是大帅哥";?>
+<?php echo "这是一个php代码";?>
 ```
 
