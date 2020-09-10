@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "2020.9.2知识总结"
+title:  "2020.9.8知识总结"
 subtitle: "对git与Markdowpads"
 date:   2020-09-08 17:46
 categories: GIT
