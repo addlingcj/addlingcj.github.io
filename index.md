@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 愚者
-subtitle: My name is linjiacai
+subtitle: 一个懒惰的入门程序员
 sitemap:
   priority: 0.9
 ---

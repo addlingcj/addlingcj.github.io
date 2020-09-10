@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 博客
+title: 程序人生
 subtitle: 温故知新
 ---
 
