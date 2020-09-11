@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: self
 title:  留言版
-subtitle: -------------
+subtitle: ------^------
 ---
+
+<div>
+</div>
