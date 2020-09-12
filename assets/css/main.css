@@ -4,8 +4,10 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    /*background-color: #FFF;*/
-    background-image: url(./img/4869mk.png);}
+    background-color: #FFF;
+    background-image: url(/assets/img/4869mk.png);
+    background-size:100% 100%;
+    }
 
   a {
     color: #57A;
@@ -51,7 +53,8 @@
 
 /* =Header *//*************************************************************/
   .header {
-    overflow: hidden; }
+    overflow: hidden;
+    background-color:#ffffff38;}
 
   .navigation {
     float: left; }
