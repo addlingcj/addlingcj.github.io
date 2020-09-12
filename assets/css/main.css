@@ -3,7 +3,7 @@
   body {
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
-    color: #75757582;
+    color:#ff070782;
     background-color: #FFF;
     background-image: url(/assets/img/ys.jpg);
     background-size:100% 100%;
@@ -51,7 +51,7 @@
   .wrapper {
     max-width: 90%;
     margin: 60px auto;
-    background-color:#3737377d; }
+    background-color:#7b7b7b7d; }
 
 /* =Header *//********************************************************************/
   .header {
