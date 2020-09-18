@@ -5,10 +5,8 @@
     font-size: 100%;
     color:#bc1ed582;
     background-color: #FFF;
-    background-image: url(/assets/img/123.jpg),
-    url(/assets/img/125.jpg),
-    url(/assets/img/124.png);
-    background-position:top center,bottom center;
+    background-image: url(/assets/img/125.png);
+    background-repeat: repeat-y;
     background-repeat:no-repeat;
     background-size:100%,cover;
     -moz-background-size:100% 100%;
