@@ -5,7 +5,14 @@
     font-size: 100%;
     color:#ff070782;
     background-color: #FFF;
-    background-image: url(/assets/img/beijing.jpg);
+    background-image: url(/assets/img/123.jpg),
+    url('/assets/img/124.png'),
+    url('/assets/img/125.png'),
+    url('/assets/img/126.png'),
+    url('/assets/img/127.png');
+    background-size:75%,50%,cover;
+    background-position:top50px right 80px,40px 40px,top center;
+    background-repeat:no-repeat;
 /*  background-repeat:no-repeat;
     background-size:100% 100%;
     -moz-background-size:100% 100%;*/
