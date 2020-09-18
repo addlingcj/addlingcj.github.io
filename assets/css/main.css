@@ -11,8 +11,8 @@
     url(/assets/img/126.jpg),
     url(/assets/img/127.jpg);
     background-size:100%,cover;
-    background-position:top50px right 80px,40px 40px,top center;
-    background-repeat:no-repeat;
+    background-position:top center,bottom center;
+    background-repeat:no-repeat,repeat;
 /*  background-repeat:no-repeat;
     background-size:100% 100%;
     -moz-background-size:100% 100%;*/
