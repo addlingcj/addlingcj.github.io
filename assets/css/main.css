@@ -3,7 +3,7 @@
   body {
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
-    color:#ff070782;
+    color:#bc1ed582;
     background-color: #FFF;
     background-image: url(/assets/img/123.jpg),
     url('/assets/img/125.jpg'),
@@ -19,7 +19,7 @@
     }
 
   a {
-    color: #3e3c3c8a;
+    color: #0000008a;
     font-weight: bold;
     text-decoration: none; }
 
