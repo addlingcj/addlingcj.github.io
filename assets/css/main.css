@@ -10,7 +10,7 @@
     url('/assets/img/125.png'),
     url('/assets/img/126.jpg'),
     url('/assets/img/127.jpg');
-    background-size:75%,50%,cover;
+    background-size:100%,cover;
     background-position:top50px right 80px,40px 40px,top center;
     background-repeat:no-repeat;
 /*  background-repeat:no-repeat;
