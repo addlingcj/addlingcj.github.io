@@ -5,9 +5,9 @@
     font-size: 100%;
     color:#faba0b82;
     background-color: #FFF;
-    background-image: url(/assets/img/123.jpg);
-    /*background-repeat: repeat-y;*/  
-    background-repeat:no-repeat;
+    background-image: url(/assets/img/124.jpg);
+    background-repeat: repeat-y;
+    /*background-repeat:no-repeat;*/
     background-attachment:fixed;
     background-size:100%,cover;
     -moz-background-size:100% 100%;
