@@ -12,7 +12,7 @@ categories: 系统
 - apt-get install 软件名 下载软件
 - apt-get的配置文件（修改远程连接为阿里云的镜像）
 
-# 安装nginx
+# 安装nginx  
 - 安装 
 	- 如何判断nginx安装成功
 	- 启动 `service nginx start`
